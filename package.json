@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "asa-react": "file:///home/asa/repos/asa-react"
+    "asa-react": "file:///home/asa/repos/asa-react",
+    "react-router": "^2.0.0-rc5"
   }
 }
